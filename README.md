@@ -1,1 +1,1 @@
-# -Multi-Cycle-MIPS-Processor-Design
+# Multi-Cycle-MIPS-Processor-Design
